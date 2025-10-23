@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="CalculadoraDeDescontosTest" time="0.065" tests="6" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Users\Usuário\Desktop\Arquivos Lenovo Ademar\ARQUIVOS FACULDADE\CONTEÚDO\Workintech\SpringBoot\api\Tdd21\target\test-classes;C:\Users\Usuário\Desktop\Arquivos Lenovo Ademar\ARQUIVOS FACULDADE\CONTEÚDO\Workintech\SpringBoot\api\Tdd21\target\classes;C:\Users\Usuário\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.10.0\junit-jupiter-api-5.10.0.jar;C:\Users\Usuário\.m2\repository\org\opentest4j\opentest4j\1.3.0\opentest4j-1.3.0.jar;C:\Users\Usuário\.m2\repository\org\junit\platform\junit-platform-commons\1.10.0\junit-platform-commons-1.10.0.jar;C:\Users\Usuário\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\Usuário\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.10.0\junit-jupiter-engine-5.10.0.jar;C:\Users\Usuário\.m2\repository\org\junit\platform\junit-platform-engine\1.10.0\junit-platform-engine-1.10.0.jar;C:\Users\Usuário\.m2\repository\org\junit\jupiter\junit-jupiter\6.0.0\junit-jupiter-6.0.0.jar;C:\Users\Usuário\.m2\repository\org\junit\jupiter\junit-jupiter-params\6.0.0\junit-jupiter-params-6.0.0.jar;C:\Users\Usuário\.m2\repository\org\jspecify\jspecify\1.0.0\jspecify-1.0.0.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="America/Sao_Paulo"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="BR"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-11\bin"/>
+    <property name="sun.java.command" value="C:\Users\Usuário\AppData\Local\Temp\surefire15494026211453850142\surefirebooter-20251023082500385_3.jar C:\Users\Usuário\AppData\Local\Temp\surefire15494026211453850142 2025-10-23T08-24-59_596-jvmRun1 surefire-20251023082500385_1tmp surefire_0-20251023082500385_2tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\Users\Usuário\Desktop\Arquivos Lenovo Ademar\ARQUIVOS FACULDADE\CONTEÚDO\Workintech\SpringBoot\api\Tdd21\target\test-classes;C:\Users\Usuário\Desktop\Arquivos Lenovo Ademar\ARQUIVOS FACULDADE\CONTEÚDO\Workintech\SpringBoot\api\Tdd21\target\classes;C:\Users\Usuário\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.10.0\junit-jupiter-api-5.10.0.jar;C:\Users\Usuário\.m2\repository\org\opentest4j\opentest4j\1.3.0\opentest4j-1.3.0.jar;C:\Users\Usuário\.m2\repository\org\junit\platform\junit-platform-commons\1.10.0\junit-platform-commons-1.10.0.jar;C:\Users\Usuário\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\Usuário\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.10.0\junit-jupiter-engine-5.10.0.jar;C:\Users\Usuário\.m2\repository\org\junit\platform\junit-platform-engine\1.10.0\junit-platform-engine-1.10.0.jar;C:\Users\Usuário\.m2\repository\org\junit\jupiter\junit-jupiter\6.0.0\junit-jupiter-6.0.0.jar;C:\Users\Usuário\.m2\repository\org\junit\jupiter\junit-jupiter-params\6.0.0\junit-jupiter-params-6.0.0.jar;C:\Users\Usuário\.m2\repository\org\jspecify\jspecify\1.0.0\jspecify-1.0.0.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\Usuário"/>
+    <property name="user.language" value="pt"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2025-04-15"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-11"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\Users\Usuário\Desktop\Arquivos Lenovo Ademar\ARQUIVOS FACULDADE\CONTEÚDO\Workintech\SpringBoot\api\Tdd21"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\Usuário\AppData\Local\Temp\surefire15494026211453850142\surefirebooter-20251023082500385_3.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="11.0.27+8-LTS-232"/>
+    <property name="user.name" value="Usuário"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="18.9"/>
+    <property name="localRepository" value="C:\Users\Usuário\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\USURIO~1\AppData\Local\Temp\"/>
+    <property name="java.version" value="11.0.27"/>
+    <property name="user.dir" value="C:\Users\Usuário\Desktop\Arquivos Lenovo Ademar\ARQUIVOS FACULDADE\CONTEÚDO\Workintech\SpringBoot\api\Tdd21"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-11\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Python313\Scripts\;C:\Python313\;C:\Program Files\Eclipse Adoptium\jre-11.0.28.6-hotspot\bin;C:\Program Files\Eclipse Adoptium\jdk-11.0.28.6-hotspot\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Users\Usuário\AppData\Local\Programs\Eclipse Adoptium\jdk-11.0.25.9-hotspot;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\MinGW\bin;C:\Program Files\dotnet\;C:\Program Files (x86)\dotnet\;C:\Program Files\Java\jdk-11.0.25\bin;C:\Program Files\7-Zip\;C:\xampp\mysql\bin\mysql.exe;C:\xampp\php\php.exe;C:\ProgramData\chocolatey\bin;C:\xampp\mysql\bin;C:\Maven\apache-maven-3.9.9-bin\apache-maven-3.9.9\bin;C:\Users\Usuário\AppData\Local\Programs\Eclipse Adoptium\jdk-11.0.25.9-hotspot\bin;C:\Users\Usuário\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\Usuário\AppData\Local\Programs\Python\Python312\;C:\Users\Usuário\AppData\Local\Programs\Python\Launcher\;C:\Users\Usuário\AppData\Local\Microsoft\WindowsApps;C:\Users\Usuário\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Usuário\AppD;C:\Program Files\Java\jdk-11\bin;C:\Maven\apache-maven-3.9.9-bin\apache-maven-3.9.9\bin;C:\nvm;C:\nodejs;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Users\Usuário\AppData\Local\Programs\Python\Launcher\;C:\Users\Usuário\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.15.6-hotspot\bin;C:\MinGW\bin;C:\Users\Usuário\AppData\Local\Programs\Eclipse Adoptium\jdk-11.0.25.9-hotspot\bin;C:\Users\Usuário\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\Usuário\AppData\Local\Programs\Python\Python312\;C:\Users\Usuário\AppData\Local\Microsoft\WindowsApps;C:\Users\Usuário\AppData\Local\Programs\Microsoft VS Code\bin;C:\MinGW\bin;C:\Users\Usuário\AppData\Local\GitHubDesktop\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.2\bin;;C:\xampp\php;C:\Users\Usuário\composer;C:\Users\Usuário\AppData\Roaming\Composer\vendor\bin;C:\Program Files\JetBrains\PhpStorm 2024.3.2.1\bin;;C:\Program Files\7-Zip\;C:\nvm;C:\nodejs;C:\Users\Usuário\AppData\Roaming\npm;C:\Users\Usuário\.dotnet\tools;C:\Users\Usuário\AppData\Local\Apps\clojure\;."/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vm.version" value="11.0.27+8-LTS-232"/>
+    <property name="java.specification.maintenance.version" value="3"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="55.0"/>
+  </properties>
+  <testcase name="deveRetornarCincoPorcentoDescontoParaCompraDeCemExatos" classname="CalculadoraDeDescontosTest" time="0.032"/>
+  <testcase name="deveRetornarZeroDescontoParaCompraAbaixoDeCem" classname="CalculadoraDeDescontosTest" time="0.001"/>
+  <testcase name="deveRetornarCincoPorcentoDescontoParaCompraEntreCemEQuinhentos" classname="CalculadoraDeDescontosTest" time="0.001"/>
+  <testcase name="deveRetornarCincoPorcentoDescontoParaCompraDeQuinhentosExatos" classname="CalculadoraDeDescontosTest" time="0.001"/>
+  <testcase name="deveRetornarDezPorcentoDescontoParaCompraAcimaDeQuinhentos" classname="CalculadoraDeDescontosTest" time="0.001"/>
+  <testcase name="deveLancarExcecaoParaValorNegativo" classname="CalculadoraDeDescontosTest" time="0.002"/>
+</testsuite>
